@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on updating Minecraft mods and Developing a 2D-Online Shooter for Informatik Class 10<br>    🌱 I’m currently learning; Python, LiteSQL, API's and a little bit about AI's<br>    💬 Ask me about how to find things, use AI and how to setup AI<br>    ⚡ Fun fact: I am a Table-Tennis Trainer <br> 🐈 Rule 0: Don't fuck with cats!</p>
+<p align="left">🔭 I’m currently Developing Multiple Python Apps for Informatik Class 10<br>    🌱 I’m currently learning; Python, LiteSQL, API's and a little bit about AI's<br>    💬 Ask me about how to find things, use AI and how to setup AI<br>    ⚡ Fun fact: I am a Valorant Addon Coder <br> 🐈 Rule 0: Don't fuck with cats!</p>
 
 ###
 
