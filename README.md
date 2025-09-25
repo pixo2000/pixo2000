@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pixo2000.pixo2000&"  />
-</div>
-
-###
-
 <p align="left">✌️ I am a Hobby Dev and currently developing some QoL Programs for a Film Studio.<br>🌐 I currently learn a lot about Networking thanks to Informatik Class 11.<br>🖥 If you need a server setup just message me :D</p>
 
 ###
