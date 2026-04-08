@@ -12,22 +12,14 @@ Interests:
   - 🚁 System Management
   - 💻 Coding & Automation
   - 🎮 Gaming
-Location: Germany
+Location: Germany, at my Computer
+
 ```
 
 ## GitHub Stats
-<p align="center">
-  <a href="https://github.com/pixo2000">
-    <img height="180em" src="./profile/stats.svg" alt="pixo2000's GitHub Stats" />
-  </a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pixo2000&theme=dark" alt="GitHub Streak" /></a>
-  <a href="https://github.com/pixo2000">
-    <img height="180em" src="./profile/top-langs.svg" alt="Top Languages" />
-  </a>
-</p>
 
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
-
+<p align="center"><small> I use arch btw </small></p>
