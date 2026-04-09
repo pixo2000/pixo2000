@@ -13,7 +13,7 @@ Interests:
   - 💻 Coding & Automation
   - 🎮 Gaming
 Location: Germany, at my Computer
-
+Contact: "xandarian" on Discord
 ```
 
 ## GitHub Stats
