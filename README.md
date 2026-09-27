@@ -7,13 +7,15 @@
 ## About me
 ```
 Name: pixo2000 // Xandarian
-Current_Projects: Coding Minecraft Gamemodes
+Current_Projects: Coding Minecraft Gamemodes and Working on AI Voice-Agents
 Interests:
   - 🚁 System Management
   - 💻 Coding & Automation
   - 🎮 Gaming
 Location: Germany, at my Computer
 Contact: "xandarian" on Discord
+
+Many Repositories are not public!
 ```
 
 ## GitHub Stats
