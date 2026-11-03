@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Xandarian%20//%20pixo2000&fontColor=D3D3D3" alt="Banner" width="100%" />
-
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Selfhosting;Sysadmin;Hobby+Dev" alt="Typing SVG" /></a>
 </p>
